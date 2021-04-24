@@ -1,5 +1,4 @@
 # PATTERN PROGRAMMING
-## Pattern 1
 ```
 Pattern 1
 * * * * *
