@@ -1,10 +1,12 @@
 # PATTERN PROGRAMMING
-##Output
+## Pattern 1
+```
 *****
 *****
 *****
 *****
 *****
+```
 ```
 #include<stdio.h>
 int main()
